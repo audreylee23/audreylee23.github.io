@@ -224,10 +224,10 @@ exclude:
   - _pages/projects.md
   - _pages/profiles.md
   - _pages/teaching.md
-  - posts/
-  - projects/
-  - books/
-  - teachings/
+  - _posts/
+  - _projects/
+  - _books/
+  - _teachings/
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
