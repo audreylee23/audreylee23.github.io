@@ -218,10 +218,16 @@ include: ["_pages"]
 exclude:
 # may include later
   - _pages/blog.md
-  _ ["_posts"]
+  - _pages/books.md
   - _pages/dropdown.md
   - _pages/repositories.md
   - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/teaching.md
+  - posts/
+  - projects/
+  - books/
+  - teachings/
   - al-folio-upgrade-report.md
   - bin/
   - CONTRIBUTING.md
